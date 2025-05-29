@@ -57,8 +57,8 @@ We leverage:
 ## ⚙️ Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Ouro-Mancer/Major-Project.git
-cd Major-Project
+git clone https://github.com/Ouro-Mancer/Brain-tumor-APP.git
+cd Brain-tumor-APP
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
@@ -114,8 +114,8 @@ We welcome contributions to enhance this project! Whether you're fixing bugs, ad
 - **Fork the Repository**: Click the "Fork" button on GitHub to create your own copy.  
 - **Clone Your Fork**:  
   ```bash
-  git clone https://github.com/your-username/Major-Project.git
-  cd Major-Project
+  git clone https://github.com/your-username/Brain-tumor-APP.git
+  cd Brain-tumor-APP
   ```  
 - **Create a Feature Branch**:  
   ```bash
